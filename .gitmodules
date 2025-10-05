@@ -4,3 +4,6 @@
 [submodule "vendor/Chatty_desktop_pet"]
 	path = vendor/Chatty_desktop_pet
 	url = https://github.com/ExtraNick/Chatty_desktop_pet
+[submodule "vendor/Multiple-Windows-tutorial"]
+	path = vendor/Multiple-Windows-tutorial
+	url = https://github.com/geegaz/Multiple-Windows-tutorial
