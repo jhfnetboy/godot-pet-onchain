@@ -1,6 +1,3 @@
-[submodule "vendor/Multiple-Windows-tutorial"]
-	path = vendor/Multiple-Windows-tutorial
-	url = https://github.com/geegaz/Multiple-Windows-tutorial
 [submodule "vendor/virtual_pet"]
 	path = vendor/virtual_pet
 	url = https://github.com/blindbandit76/virtual_pet
