@@ -1,0 +1,3 @@
+[submodule "vendor/virtual_pet"]
+	path = vendor/virtual_pet
+	url = https://github.com/blindbandit76/virtual_pet
